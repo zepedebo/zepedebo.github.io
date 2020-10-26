@@ -31,7 +31,7 @@ github_username:  zepedebo
 # Build settings
 # theme: minima
 show_downloads: false
-theme: jekyll-theme-cayman-blog
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
